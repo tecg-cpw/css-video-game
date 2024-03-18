@@ -25,6 +25,15 @@ Une fois cette correction réalisée, nous mettrons tous les fichiers en commun 
 
 Cet exercice représente une étape intermédiaire imporante dans le cours car elle permet de vous préparer à l'évaluation qui suivra cette activité. La pondération de cette évaluation 12.5% de votre cote et vous permettra de situer votre apprentissage.
 
+## Séquencier
+
+| Dates   |     Tâche      | 
+|----------|:-------------:|
+| 11/03 et 12/03  |  Réalisation de l'exercice |
+| 18/03 et 19/03  |  Réalisation de l'exercice |
+| 25/03 et 26/03  |  Correction de l'exercice en binôme |
+
+
 ## Consignes
 
 Pour réaliser cet exercice, télécharger le dossier en cliquant sur le bouton vert code et cliquez sur *download zip*.
