@@ -2,13 +2,13 @@
 /* --- Liste des jeux --- */
 /* ---------------------- */
 .gameList__item{
-    font-size: 22px;
-    padding: 16px;
+    font-size: 1.375em; /* 22/16*/
+    padding: 0.727272727272727em /*16/22*/;
     background-color: #5186EA;
-    border-radius: 8px;
+    border-radius: 0.363636363636364em; /*8/22*/
 }
 .gameList__item+.gameList__item{
-    margin-top: 16px;
+    margin-top: 0.727272727272727em /*16/22*/;
 }
 .gameList__link{
     font-weight: 700;
@@ -20,19 +20,19 @@
 /* --------------------------- */
 .gameCover{
     display: block;
-    margin-bottom: 16px;
+    margin-bottom: 1em; /*16/16*/
 }
 .gameShortDesc{
     line-height: 1.375em; /*22/16*/
-    margin-bottom: 16px;
+    margin-bottom: 0.727272727272727em /*16/22*/;
 }
 .btn{
     display: block;
-    font-size: 22px;
+    font-size: 1.375em; /* 22/16*/
     font-weight: 700;
-    padding: 16px;
+    padding: 0.727272727272727em /*16/22*/;
     background-color: #5186EA;
-    border-radius: 8px;
+    border-radius: 0.363636363636364em; /*8/22*/
     text-align: center;
     color:white;
     text-decoration: none;
@@ -41,26 +41,26 @@
     background-color: transparent;
     color: #5186EA;
     border: 1px solid #5186EA;
-    margin-top: 16px;
+    margin-top: 0.727272727272727em /*16/22*/;
 }
 /* --------------------- */
 /* --- Détail du jeu --- */
 /* --------------------- */
 .mainHeader{
-    margin-bottom: 16px;
+    margin-bottom: 1em; /*16/16*/
 }
 .gameDesc__title, .gameStory__title, .gallery__title, .navigation__title{
-    font-size: 24px;
+    font-size: 1.5em; /*24/16*/
     font-weight: 700;
-    margin-bottom: 8px;
+    margin-bottom: 0.333333333333333em /*8/24*/
 }
 .gameDesc, .gameStory, .gallery{
-    margin-bottom: 16px;
+    margin-bottom: 1em; /*16/16*/
 }
 /* --- Caractéristiques du jeu --- */
 .gameDesc__specsList__item+
 .gameDesc__specsList__item{
-    margin-top: 4px;
+    margin-top: 0.25em; /*4/16*/
 }
 .gameDesc__specsList__item__descTitle,.gameDesc__specsList__item__descText{
     display: inline;
@@ -74,15 +74,15 @@
 }
 /* --- Images du jeu --- */
 .gallery__item+.gallery__item{
-    margin-top: 16px;
+    margin-top: 1em; /*16/16*/
 }
 .gallery__item__img{
     display: block;
 }
 .gallery__item__imgLegend{
-    font-size: 12px;
+    font-size: 0.75em; /*12/16*/
     background-color: #E6E6E6;
-    padding: 8px;
+    padding: 0.666666666666667em; /*8/12*/
     text-align: center;
 }
 /* --- Navigation --- */
@@ -90,5 +90,5 @@
     color: #5186EA;
 }
 .navigation__list__item+.navigation__list__item{
-    margin-top: 8px;
+    margin-top: 0.5em; /*8/16*/
 }
