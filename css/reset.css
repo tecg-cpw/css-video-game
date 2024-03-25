@@ -49,10 +49,10 @@ table {
 /* --- Fin du reset de Meyer --- */
 body{
 	font-family: "Alegreya Sans", Helvetica, Arial, sans-serif;
-	padding: 32px 20px;
+	padding: 2em 5.333333333333334%; /*32/16 et (20/375)*100 = */
 }
 h1{
-	font-size: 28px;
+	font-size: 1.75em; /*28/16*/
 	font-weight: 800;
-	margin-bottom:16px;
+	margin-bottom:0.571428571428571em; /*16/28*/
 }
