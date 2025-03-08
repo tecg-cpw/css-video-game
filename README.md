@@ -36,9 +36,9 @@ Cet exercice représente une étape intermédiaire imporante dans le cours car e
 
 ## Consignes
 
-Pour réaliser cet exercice, télécharger le dossier en cliquant sur le bouton vert code et cliquez sur *download zip*.
+Pour réaliser cet exercice, téléchargez le dossier en cliquant sur le bouton vert code et cliquez sur *download zip*.
 
-Une fois que vous avez téléchargé le fichier, allez dans votre dossier de téléchargement et dézippé-le. Sur MacOS, il suffit de double cliquer, sur Windows, cliquez droit sur le fichier zip et décompressez via 7zip (*extract here*).
+Une fois que vous avez téléchargé le fichier, allez dans votre dossier de téléchargement et dézippez-le. Sur MacOS, il suffit de double cliquer, sur Windows, cliquez droit sur le fichier zip et décompressez via 7zip (*extract here*).
 
 Démarrez ensuite votre éditeur de code favori (Visual Studio Code ou Sublime Text sur les machines de l'école) et faites glisser le dossier de l'énoncé dans l'éditeur.
 
@@ -48,7 +48,7 @@ Pensez à installer les polices. Sur Windows, il vous suffit de les sélectionne
 
 Pour cet exercice, vous devez utiliser un reset indépendant de votre code. Vous trouverez le code nécessaire à l'adresse suivante&nbsp;: [https://meyerweb.com/eric/tools/css/reset/](https://meyerweb.com/eric/tools/css/reset/). Pour rappel, les fichiers css doivent se trouver dans un dossier `css` dédié.
 
-Vous remarquerez que chaque balise `HTML` dispose d'une ou plusieurs classes. Préférez l'utilisation des classes au sélecteurs de type (balises)&nbsp;! Évitez de recopier manuellement les noms de classes et utilisez le copier/coller.
+Vous remarquerez que chaque balise `HTML` dispose d'une ou plusieurs classes. Préférez l'utilisation des classes aux sélecteurs de type (balises)&nbsp;! Évitez de recopier manuellement les noms de classes et utilisez le copier/coller.
 
 Afin de travailler dans des conditions optimales, pensez à activer la vue adaptative dans votre navigateur. Pour l'activer, ouvrez l'inspecteur dans votre navigateur et cliquez sur l'icône qui représente des périphériques mobiles (le plus souven un téléphone et une tablette).
 
